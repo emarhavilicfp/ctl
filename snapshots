@@ -2,3 +2,5 @@
 548df4d	20120714-2011	COMPETITION=1 bin/icfp
 6292957	20120715-0148	COMPETITION=1 ./icfptimed bin/icfp
 90005b5	20120715-0734	COMPETITION=1 ./icfptimed bin/icfp
+9ccabed	20120715-0913-simple	ENGINE=simple COMPETITION=1 ./icfptimed bin/icfp
+9ccabed	20120715-0913-tobruos	ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
