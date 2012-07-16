@@ -52,3 +52,4 @@ f1555bf	octopus-astar-pruned-2	COMPETITION=1 PATHFIND=astar ENGINE=octopus ./icf
 bf4f85f	cargomax-astar-patterned	COMPETITION=1 PATHFIND=astar ./icfptimed bin/icfp
 bf4f85f	tobruos-astar-patterned	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icfptimed bin/icfp
 bf4f85f	octopus-astar-patterned	COMPETITION=1 PATHFIND=astar ENGINE=octopus ./icfptimed bin/icfp
+a9d1a96	tobruos-astar-eval	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icfptimed bin/icfp
