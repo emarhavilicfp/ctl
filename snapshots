@@ -57,3 +57,6 @@ a9d1a96	tobruos-astar-eval	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icfptim
 236bc8e	tobruos-astar-not-an-idiot	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icfptimed bin/icfp
 236bc8e	cargomax-astar-not-an-idiot	COMPETITION=1 PATHFIND=astar ./icfptimed bin/icfp
 236bc8e	octopus-astar-not-an-idiot	COMPETITION=1 PATHFIND=astar ENGINE=octopus ./icfptimed bin/icfp
+c02964e	tobruos-astar-nuke	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icfptimed bin/icfp
+c02964e	cargomax-astar-nuke	COMPETITION=1 PATHFIND=astar ./icfptimed bin/icfp
+c02964e	octopus-astar-nuke	COMPETITION=1 PATHFIND=astar ENGINE=octopus ./icfptimed bin/icfp
