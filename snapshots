@@ -5,3 +5,5 @@
 9ccabed	20120715-0913-simple	ENGINE=simple COMPETITION=1 ./icfptimed bin/icfp
 9ccabed	20120715-0913-tobruos	ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
 c833727	20120715-0926-tobruos	ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
+5db62c1	20120715-1911-simple	ENGINE=simple COMPETITION=1 ./icfptimed bin/icfp
+5db62c1	20120715-1911-tobruos	ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
