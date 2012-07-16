@@ -38,3 +38,9 @@ d689c37	tobruos-astar-for-real	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icf
 b144d5a	cargomax-astar-hotl	COMPETITION=1 PATHFIND=astar ./icfptimed bin/icfp
 b144d5a	tobruos-astar-hot	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icfptimed bin/icfp
 b144d5a	octopus-astar-hot	COMPETITION=1 PATHFIND=astar ENGINE=octopus ./icfptimed bin/icfp
+8bc326e	cargomax-5-3-birds-2	COMPETITION=1 ./icfptimed bin/icfp
+9a64130	cargomax-5-3-birds-1	COMPETITION=1 ./icfptimed bin/icfp
+94c5ef8	cargomax-5-3-birds-3	COMPETITION=1 ./icfptimed bin/icfp
+83e005f	cargomax-5-3-birds-4	COMPETITION=1 ./icfptimed bin/icfp
+1cf89e5	cargomax-5-3-birds-7	COMPETITION=1 ./icfptimed bin/icfp
+1893d1a	cargomax-5-3-birds-10	COMPETITION=1 ./icfptimed bin/icfp
