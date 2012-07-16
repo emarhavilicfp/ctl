@@ -13,5 +13,5 @@ c833727	20120715-0926-tobruos	ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
 7d67f0a	20120715-2139-astar-tobruos	ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
 0d8ccd1	20120715-2318-iterdeep	COMPETITION=1 ./icfptimed bin/icfp
 0d8ccd1	20120715-2318-tobruos	ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
-5f77a06 20120715-2336-astar-iterdeep	PATHFIND=astar COMPETITION=1 ./icfptimed bin/icfp
-5f77a06 20120715-2341-astar-tobruos	PATHFIND=astar ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
+5f77a06	20120715-2336-astar-iterdeep	PATHFIND=astar COMPETITION=1 ./icfptimed bin/icfp
+5f77a06	20120715-2341-astar-tobruos	PATHFIND=astar ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
