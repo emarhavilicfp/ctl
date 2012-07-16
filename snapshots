@@ -54,3 +54,6 @@ bf4f58f	tobruos-astar-patterned	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./ic
 bf4f58f	octopus-astar-patterned	COMPETITION=1 PATHFIND=astar ENGINE=octopus ./icfptimed bin/icfp
 a9d1a96	tobruos-astar-eval	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icfptimed bin/icfp
 071736b	tobruos-rises-again	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icfptimed bin/icfp
+236bc8e	tobruos-astar-not-an-idiot	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icfptimed bin/icfp
+236bc8e	cargomax-astar-not-an-idiot	COMPETITION=1 PATHFIND=astar ./icfptimed bin/icfp
+236bc8e	octopus-astar-not-an-idiot	COMPETITION=1 PATHFIND=astar ENGINE=octopus ./icfptimed bin/icfp
