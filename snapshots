@@ -31,4 +31,4 @@ f8cb158	cargomax-bf-5-munge-1	COMPETITION=1 ./icfptimed bin/icfp
 f4f1af0	cargomax-6-astar-derp	COMPETITION=1 PATHFIND=astar ./icfptimed bin/icfp
 f4f1af0	tobruos-astar-derp	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icfptimed bin/icfp
 1cd4274	cargomax-5-astar-derp	COMPETITION=1 PATHFIND=astar ./icfptimed bin/icfp
-a2b89d4	octopus-astar	COMPETITION=1 PATHFIND=astar ENGINE=octopus ./icfptimed bin/icfp
+f3184c9	octopus-astar	COMPETITION=1 PATHFIND=astar ENGINE=octopus ./icfptimed bin/icfp
