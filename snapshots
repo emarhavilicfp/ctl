@@ -28,4 +28,6 @@ f8cb158	cargomax-bf-5-munge-1	COMPETITION=1 ./icfptimed bin/icfp
 0f57b47	cargomax-bf-6-munge-3	COMPETITION=1 ./icfptimed bin/icfp
 9ce06f8	tobruos-astar	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icfptimed bin/icfp
 9ce06f8	tobruos	COMPETITION=1 ENGINE=tobruos ./icfptimed bin/icfp
-
+f4f1af0	cargomax-6-astar	COMPETITION=1 PATHFIND=astar ./icfptimed bin/icfp
+f4f1af0	tobruos-astar	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icfptimed bin/icfp
+1cd4274	cargomax-5-astar	COMPETITION=1 PATHFIND=astar ./icfptimed bin/icfp
