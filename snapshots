@@ -16,3 +16,8 @@ c833727	20120715-0926-tobruos	ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
 0d8ccd1	20120715-2318-tobruos	ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
 5f77a06	20120715-2336-astar-iterdeep	PATHFIND=astar COMPETITION=1 ./icfptimed bin/icfp
 5f77a06	20120715-2341-astar-tobruos	PATHFIND=astar ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
+f369f5b	cargomax-bf-5-munge-5	COMPETITION=1 ./icfptimed bin/icfp
+f8cb158	cargomax-bf-5-munge-1	COMPETITION=1 ./icfptimed bin/icfp
+9f5bd7c	cargomax-bf-7-munge-3	COMPETITION=1 ./icfptimed bin/icfp
+8762ed0	cargomax-bf-3-munge-3	COMPETITION=1 ./icfptimed bin/icfp
+0f57b47	cargomax-bf-7-munge-5	COMPETITION=1 ./icfptimed bin/icfp
