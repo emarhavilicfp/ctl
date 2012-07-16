@@ -47,3 +47,4 @@ b144d5a	octopus-astar-hot	COMPETITION=1 PATHFIND=astar ENGINE=octopus ./icfptime
 b144d5a	cargomax-astar-fire	COMPETITION=1 PATHFIND=astar ./icfptimed bin/icfp
 b144d5a	tobruos-astar-fire	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icfptimed bin/icfp
 b144d5a	octopus-astar-fire	COMPETITION=1 PATHFIND=astar ENGINE=octopus ./icfptimed bin/icfp
+85e5cb1 octopus-astar-pruned	COMPETITION=1 PATHFIND=astar ENGINE=octopus ./icfptimed bin/icfp
