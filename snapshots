@@ -35,3 +35,6 @@ f3184c9	octopus-astar	COMPETITION=1 PATHFIND=astar ENGINE=octopus ./icfptimed bi
 d689c37	octopus-astar-for-real	COMPETITION=1 PATHFIND=astar ENGINE=octopus ./icfptimed bin/icfp
 d689c37	cargomax-astar-for-real	COMPETITION=1 PATHFIND=astar ./icfptimed bin/icfp
 d689c37	tobruos-astar-for-real	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icfptimed bin/icfp
+b144d5a	cargomax-astar-hotl	COMPETITION=1 PATHFIND=astar ./icfptimed bin/icfp
+b144d5a	tobruos-astar-hot	COMPETITION=1 PATHFIND=astar ENGINE=tobruos ./icfptimed bin/icfp
+b144d5a	octopus-astar-hot	COMPETITION=1 PATHFIND=astar ENGINE=octopus ./icfptimed bin/icfp
