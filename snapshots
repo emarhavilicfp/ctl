@@ -7,5 +7,5 @@
 c833727	20120715-0926-tobruos	ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
 4295132	20120715-1911-iterdeep	COMPETITION=1 ./icfptimed bin/icfp
 4295132	20120715-1911-tobruos	ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
-058e99d 20120715-2054-iterdeep  COMPETITION=1 ./icfptimed bin/icfp
-058e99d 20120715-2054-tobruos	ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
+058e99d	20120715-2054-iterdeep	COMPETITION=1 ./icfptimed bin/icfp
+058e99d	20120715-2054-tobruos	ENGINE=tobruos COMPETITION=1 ./icfptimed bin/icfp
